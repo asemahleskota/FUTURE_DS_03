@@ -1,3 +1,5 @@
+MARKETING FUNNEL DASHBOARD
+
 Project overview
 
 This project analyzes a bank marketing campaign using Power BI. The dashboard shows the campaign performance, communication methods and conversion outcomes to identify factors that influence term deposit subscriptions.
