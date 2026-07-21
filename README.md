@@ -10,11 +10,11 @@ Dashboard Features
 -Conversion Analysis by job categpry
 -Customer Demographics
 -Marketing Campaign Performance
-- Interactive Slicers
+Interactive Slicers
 
 Key insights
 
--Blue-collar customers contributed the highest number of conversions.
+Blue-collar customers contributed the highest number of conversions.
 
 - The average customer age is approximately 40 years.
 
