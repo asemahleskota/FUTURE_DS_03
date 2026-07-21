@@ -10,9 +10,9 @@ Tools Used
 
 Dashboard Features
 
--Conversion Analysis by job categpry
--Customer Demographics
--Marketing Campaign Performance
+Conversion Analysis by job category
+Customer Demographics
+Marketing Campaign Performance
 Interactive Slicers
 
 Key insights
